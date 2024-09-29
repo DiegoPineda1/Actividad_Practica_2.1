@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Diego Pineda\\Desktop\\Progra\\Problema_2.1\\ClassLibrary1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D6F566D-0251-427C-B8CE-9CF977BFC4A0}|ClassLibrary1\\ClassFecha.csproj|c:\\users\\diego pineda\\desktop\\progra\\problema_2.1\\classlibrary1\\classlibrary1\\repositorio\\implementacion\\fecharepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D6F566D-0251-427C-B8CE-9CF977BFC4A0}|ClassLibrary1\\ClassFecha.csproj|solutionrelative:classlibrary1\\repositorio\\implementacion\\fecharepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{854EA860-8290-486E-A27F-9DC52EB29580}|WebApiFecha\\WebApiFecha.csproj|c:\\users\\diego pineda\\desktop\\progra\\problema_2.1\\classlibrary1\\webapifecha\\controllers\\apifecha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{854EA860-8290-486E-A27F-9DC52EB29580}|WebApiFecha\\WebApiFecha.csproj|solutionrelative:webapifecha\\controllers\\apifecha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{854EA860-8290-486E-A27F-9DC52EB29580}|WebApiFecha\\WebApiFecha.csproj|c:\\users\\diego pineda\\desktop\\progra\\problema_2.1\\classlibrary1\\webapifecha\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{854EA860-8290-486E-A27F-9DC52EB29580}|WebApiFecha\\WebApiFecha.csproj|solutionrelative:webapifecha\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D6F566D-0251-427C-B8CE-9CF977BFC4A0}|ClassLibrary1\\ClassFecha.csproj|c:\\users\\diego pineda\\desktop\\progra\\problema_2.1\\classlibrary1\\classlibrary1\\servicio\\imanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D6F566D-0251-427C-B8CE-9CF977BFC4A0}|ClassLibrary1\\ClassFecha.csproj|solutionrelative:classlibrary1\\servicio\\imanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D6F566D-0251-427C-B8CE-9CF977BFC4A0}|ClassLibrary1\\ClassFecha.csproj|c:\\users\\diego pineda\\desktop\\progra\\problema_2.1\\classlibrary1\\classlibrary1\\servicio\\fechamanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D6F566D-0251-427C-B8CE-9CF977BFC4A0}|ClassLibrary1\\ClassFecha.csproj|solutionrelative:classlibrary1\\servicio\\fechamanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D6F566D-0251-427C-B8CE-9CF977BFC4A0}|ClassLibrary1\\ClassFecha.csproj|c:\\users\\diego pineda\\desktop\\progra\\problema_2.1\\classlibrary1\\classlibrary1\\repositorio\\inferfaces\\ifecharepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D6F566D-0251-427C-B8CE-9CF977BFC4A0}|ClassLibrary1\\ClassFecha.csproj|solutionrelative:classlibrary1\\repositorio\\inferfaces\\ifecharepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D6F566D-0251-427C-B8CE-9CF977BFC4A0}|ClassLibrary1\\ClassFecha.csproj|c:\\users\\diego pineda\\desktop\\progra\\problema_2.1\\classlibrary1\\classlibrary1\\identidades\\fecha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D6F566D-0251-427C-B8CE-9CF977BFC4A0}|ClassLibrary1\\ClassFecha.csproj|solutionrelative:classlibrary1\\identidades\\fecha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IManager.cs",
+              "DocumentMoniker": "C:\\Users\\Diego Pineda\\Desktop\\Progra\\Problema_2.1\\ClassLibrary1\\ClassLibrary1\\Servicio\\IManager.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Servicio\\IManager.cs",
+              "ToolTip": "C:\\Users\\Diego Pineda\\Desktop\\Progra\\Problema_2.1\\ClassLibrary1\\ClassLibrary1\\Servicio\\IManager.cs",
+              "RelativeToolTip": "ClassLibrary1\\Servicio\\IManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T18:47:49.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Diego Pineda\\Desktop\\Progra\\Problema_2.1\\ClassLibrary1\\WebApiFecha\\Program.cs",
+              "RelativeDocumentMoniker": "WebApiFecha\\Program.cs",
+              "ToolTip": "C:\\Users\\Diego Pineda\\Desktop\\Progra\\Problema_2.1\\ClassLibrary1\\WebApiFecha\\Program.cs",
+              "RelativeToolTip": "WebApiFecha\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T18:46:15.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApiFecha.cs",
+              "DocumentMoniker": "C:\\Users\\Diego Pineda\\Desktop\\Progra\\Problema_2.1\\ClassLibrary1\\WebApiFecha\\Controllers\\ApiFecha.cs",
+              "RelativeDocumentMoniker": "WebApiFecha\\Controllers\\ApiFecha.cs",
+              "ToolTip": "C:\\Users\\Diego Pineda\\Desktop\\Progra\\Problema_2.1\\ClassLibrary1\\WebApiFecha\\Controllers\\ApiFecha.cs",
+              "RelativeToolTip": "WebApiFecha\\Controllers\\ApiFecha.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T18:38:04.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FechaManger.cs",
+              "DocumentMoniker": "C:\\Users\\Diego Pineda\\Desktop\\Progra\\Problema_2.1\\ClassLibrary1\\ClassLibrary1\\Servicio\\FechaManger.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Servicio\\FechaManger.cs",
+              "ToolTip": "C:\\Users\\Diego Pineda\\Desktop\\Progra\\Problema_2.1\\ClassLibrary1\\ClassLibrary1\\Servicio\\FechaManger.cs",
+              "RelativeToolTip": "ClassLibrary1\\Servicio\\FechaManger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T18:36:44.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FechaRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Diego Pineda\\Desktop\\Progra\\Problema_2.1\\ClassLibrary1\\ClassLibrary1\\Repositorio\\Implementacion\\FechaRepositorio.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Repositorio\\Implementacion\\FechaRepositorio.cs",
+              "ToolTip": "C:\\Users\\Diego Pineda\\Desktop\\Progra\\Problema_2.1\\ClassLibrary1\\ClassLibrary1\\Repositorio\\Implementacion\\FechaRepositorio.cs",
+              "RelativeToolTip": "ClassLibrary1\\Repositorio\\Implementacion\\FechaRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T18:31:49.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IFechaRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Diego Pineda\\Desktop\\Progra\\Problema_2.1\\ClassLibrary1\\ClassLibrary1\\Repositorio\\Inferfaces\\IFechaRepositorio.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Repositorio\\Inferfaces\\IFechaRepositorio.cs",
+              "ToolTip": "C:\\Users\\Diego Pineda\\Desktop\\Progra\\Problema_2.1\\ClassLibrary1\\ClassLibrary1\\Repositorio\\Inferfaces\\IFechaRepositorio.cs",
+              "RelativeToolTip": "ClassLibrary1\\Repositorio\\Inferfaces\\IFechaRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T18:31:02.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Fecha.cs",
+              "DocumentMoniker": "C:\\Users\\Diego Pineda\\Desktop\\Progra\\Problema_2.1\\ClassLibrary1\\ClassLibrary1\\Identidades\\Fecha.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Identidades\\Fecha.cs",
+              "ToolTip": "C:\\Users\\Diego Pineda\\Desktop\\Progra\\Problema_2.1\\ClassLibrary1\\ClassLibrary1\\Identidades\\Fecha.cs",
+              "RelativeToolTip": "ClassLibrary1\\Identidades\\Fecha.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T18:28:12.407Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 250,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

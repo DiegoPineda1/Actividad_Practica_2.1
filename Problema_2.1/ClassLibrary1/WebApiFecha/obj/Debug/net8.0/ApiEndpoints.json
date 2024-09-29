@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "WebApiFecha.Controllers.ApiFecha",
+    "Method": "Get",
+    "RelativePath": "api/ApiFecha",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
